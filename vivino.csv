@@ -1,0 +1,360 @@
+﻿Country,Style
+Argentina,Argentinian Bonarda
+Argentina,Argentinian Bordeaux Blend
+Argentina,Argentinian Cabernet Sauvignon
+Argentina,Argentinian Cabernet Sauvignon Malbec
+Argentina,Argentinian Chardonnay
+Argentina,Argentinian Malbec
+Argentina,Argentinian Merlot
+Argentina,Argentinian Pinot Gris
+Argentina,Argentinian Pinot Noir
+Argentina,Argentinian Sangiovese
+Argentina,Argentinian Sauvignon Blanc
+Argentina,Argentinian Syrah
+Argentina,Argentinian Syrah Viognier
+Argentina,Argentinian Torrontes
+Argentina,Argentinian Viognier
+Australia,Australian Bordeaux Blend
+Australia,Australian Cabernet Sauvignon
+Australia,Australian Cabernet Shiraz
+Australia,Australian Chardonnay
+Australia,Australian Malbec
+Australia,Australian Merlot
+Australia,Australian Pinot Gris
+Australia,Australian Pinot Noir
+Australia,Australian Rhone Blend Red
+Australia,Australian Riesling
+Australia,Australian Sauvignon Blanc
+Australia,Australian Shiraz
+Australia,Australian Syrah-Viognier
+Australia,Australian Viognier
+Austria,Austria Austrian Blaufrankisch
+Austria,Austria Austrian Riesling
+Austria,Austrian Chardonnay
+Austria,Austrian Gruner Veltliner
+Austria,Austrian Pinot Blanc
+Austria,Austrian Pinot Gris
+Austria,Austrian Pinot Noir
+Austria,Austrian Sauvignon Blanc
+Austria,Austrian Zweigelt
+Brazil,Brazilian Bordeaux Blend
+Brazil,Brazilian Cabernet Franc
+Brazil,Brazilian Cabernet Sauvignon
+Brazil,Brazilian Chardonnay
+Brazil,Brazilian Merlot
+Brazil,Brazilian Pinot Noir
+Brazil,Brazilian Sparkling
+Brazil,Brazilian Syrah
+Canada,Canadian Cabernet Franc
+Canada,Canadian Cabernet Sauvignon
+Canada,Canadian Chardonnay
+Canada,Canadian Meritage
+Canada,Canadian Merlot
+Canada,Canadian Pinot Gris
+Canada,Canadian Pinot Noir
+Canada,Canadian Riesling
+Canada,Canadian Syrah
+Chile,Chilean Bordeaux Blend
+Chile,Chilean Cabernet Sauvignon
+Chile,Chilean Cabernet Syrah
+Chile,Chilean Carmenere
+Chile,Chilean Chardonnay
+Chile,Chilean Gewurztraminer
+Chile,Chilean Malbec
+Chile,Chilean Merlot
+Chile,Chilean Pinot Noir
+Chile,Chilean Riesling
+Chile,Chilean Sauvignon Blanc
+Chile,Chilean Syrah
+Chile,Chilean Viognier
+France,Alsace Gewurztraminer
+France,Alsace Pinot Blanc
+France,Alsace Pinot Gris
+France,Alsace Pinot Noir
+France,Alsace Riesling
+France,Beaujolais Red
+France,Bordeaux Graves Red
+France,Bordeaux Libournais Red
+France,Bordeaux Margaux
+France,Bordeaux Medoc
+France,Bordeaux Pauillac
+France,Bordeaux Pessac-Leognan
+France,Bordeaux Pomerol
+France,Bordeaux Red
+France,Bordeaux Saint Emilion
+France,Bordeaux Saint Estephe
+France,Bordeaux Saint Julien
+France,Bordeaux Sauternes
+France,Bordeaux White
+France,Burgundy Chablis
+France,Burgundy Cote Chalonnaise Red
+France,Burgundy Cote Chalonnaise White
+France,Burgundy Cote de Beaune Red
+France,Burgundy Cote de Beaune White
+France,Burgundy Cote de Nuits Red
+France,Burgundy Maconnais White
+France,Burgundy Red
+France,Burgundy White
+France,French Champagne
+France,French Cremant
+France,Jura Vin Jaune
+France,Jura White
+France,Languedoc Roussillon White
+France,Languedoc-Roussillon Grenache
+France,Languedoc-Roussillon Red
+France,Languedoc-Roussillon Rose
+France,Languedoc-Roussillon Viognier
+France,Loire Chenin Blanc
+France,Loire Muscadet
+France,Northern Rhone Condrieu
+France,Northern Rhone Cornas
+France,Northern Rhone Cote Rotie
+France,Northern Rhone Crozes Hermitage
+France,Northern Rhone Hermitage
+France,Northern Rhone Red
+France,Northern Rhone Saint Joseph
+France,Northern Rhone Saint Peray
+France,Northern Rhone White
+France,Provence Rose
+France,Southern Rhone Chateauneuf du­ Pape Red
+France,Southern Rhone Red
+France,Southern Rhone Rose
+France,Southern Rhone White
+France,Southwest Malbec
+France,Upper Loire Red
+France,Upper Loire White
+Germany,German Dornfelder
+Germany,German Gewiirztraminer
+Germany,German Muller Thurgau
+Germany,German Pinot Blanc
+Germany,German Riesling
+Germany,German Sauvignon Blanc
+Germany,German Silvaner
+Germany,Germany German Chardonnay
+Germany,Germany German Grauburgunder
+Germany,Germany German Spatburgunder
+Greece,Amyndeon Red
+Greece,Goumenissa Red
+Greece,Greek Malagouzia
+Greece,Greek Nemea Red
+Greece,Naoussa Red
+Greece,RapsaniRed
+Greece,Santorini White
+Hungary,Hungary Hungarian Bordeaux Blend
+Israel,Israeli Cabernet Sauvignon
+Israel,Israeli Merlot
+Israel,Israeli Syrah
+Italy,Central Italy Red
+Italy,Central Italy White
+Italy,Italian Amarone
+Italy,Italian Asti
+Italy,Italian Barbaresco
+Italy,Italian Barbera
+Italy,Italian Barolo
+Italy,Italian Bolgheri
+Italy,Italian Brunello
+Italy,Italian Chianti
+Italy,Italian Gavi
+Italy,Italian Montepulciano d'Abruzzo
+Italy,Italian Moscato d'Asti
+Italy,Italian Nebbiolo
+Italy,Italian Prosecco
+Italy,Italian Ripasso
+Italy,Italian Soave
+Italy,Italian Valpolicella Red
+Italy,Italian Vino Nobile Di Montepulciano
+Italy,Italy Sardinian Cannonau
+Italy,Northern Italy Gewurztraminer
+Italy,Northern Italy Muller Thurgau
+Italy,Northern Italy Pinot Blanc
+Italy,Northern Italy Pinot Grigio
+Italy,Northern Italy Pinot Noir
+Italy,Northern Italy Red
+Italy,Northern Italy White
+Italy,Southern Italy Primitivo
+Italy,Southern Italy Red
+Italy,Southern Italy White
+Italy,Tuscan Red
+Japan,Japan Japanese Koshu
+Luxembourg,Luxembourg Cremant
+Mexico,Mexican Cabernet Sauvignon
+Mexico,Mexican Chardonnay
+Mexico,Mexican Malbec
+Mexico,Mexican Merlot
+Mexico,Mexican Nebbiolo
+Mexico,Mexican Petite Sirah
+Mexico,Mexican Syrah
+Mexico,Mexican Zinfandel
+New Zealand,New Zealand Cabernet Sauvignon
+New Zealand,New Zealand Chardonnay
+New Zealand,New Zealand Merlot
+New Zealand,New Zealand New Zealand Bordeaux Blend
+New Zealand,New Zealand Pinot Gris
+New Zealand,New Zealand Pinot Noir
+New Zealand,New Zealand Riesling
+New Zealand,New Zealand Sauvignon Blanc
+New Zealand,New Zealand Syrah
+Portugal,Colheita Port
+Portugal,Crusted Port
+Portugal,Late Bottled Vintage Port
+Portugal,Northern Red
+Portugal,Northern White
+Portugal,Portuguese Alentejo Red
+Portugal,Portuguese Dao Red
+Portugal,Portuguese Douro Red
+Portugal,Portuguese Madeira
+Portugal,Portuguese Moscatel
+Portugal,Portuguese Port
+Portugal,Portuguese Vinho Verde White
+Portugal,Ruby Port
+Portugal,Single Quinta Vintage Port
+Portugal,Southern Red
+Portugal,Southern White
+Portugal,Tawny Port
+Portugal,Vintage Port
+Portugal,White Port
+Russia,Russian Cabernet Franc
+Russia,Russian Cabernet Sauvignon
+Russia,Russian Chardonnay
+Russia,Russian Krasnostop
+Russia,Russian Merlot
+Russia,Russian Muscat
+Russia,Russian Pinot Noir
+Russia,Russian Red
+Russia,Russian Riesling
+Russia,Russian Saperavi
+Russia,Russian Sauvignon Blanc
+Russia,Russian Sibirkovy
+Russia,Russian Sparkling
+Russia,Russian Tsimlyansky Cherny
+Russia,Russian White
+South Africa,South African Bordeaux Blend
+South Africa,South African Cabernet Franc
+South Africa,South African Cabernet Sauvignon
+South Africa,South African Cabernet Svrah
+South Africa,South African Chardonnay
+South Africa,South African Chenin Blanc
+South Africa,South African Malbec
+South Africa,South African Merlot
+South Africa,South African Pinot Gris
+South Africa,South African Pinot Noir
+South Africa,South African Pinotage
+South Africa,South African Pinotage Blend
+South Africa,South African Sauvignon Blanc
+South Africa,South African Syrah
+South Africa,South African Syrah Viognier
+South Africa,South African Viognier
+Spain,Spanish Albarino
+Spain,Spanish Cabernet Sauvignon
+Spain,Spanish Cava
+Spain,Spanish Chardonnay
+Spain,Spanish Grenache
+Spain,Spanish Mencia
+Spain,Spanish Merlot
+Spain,Spanish Monastrell
+Spain,Spanish Montsant Red
+Spain,Spanish Pedro Ximenez
+Spain,Spanish Priorat Red
+Spain,Spanish Red
+Spain,Spanish Rhone Blend Red
+Spain,Spanish Ribera Del Duero Red
+Spain,Spanish Rioja Red
+Spain,Spanish Rioja White
+Spain,Spanish Sauvignon Blanc
+Spain,Spanish Sherry
+Spain,Spanish Sparkling
+Spain,Spanish Syrah
+Spain,Spanish Tempranillo
+Spain,Spanish Toro Red
+Spain,Spanish Verdejo
+Switzerland,Swiss Chardonnay
+Switzerland,Swiss Chasselas
+Switzerland,Swiss Merlot
+Switzerland,Swiss Pinot Noir
+Switzerland,Swiss Syrah
+United Kingdom,English Sparkling
+United States,Californian Bordeaux Blend
+United States,Californian Cabernet Franc
+United States,Californian Cabernet Sauvignon
+United States,Californian Chardonnay
+United States,Californian Chenin Blanc
+United States,Californian Gewurztraminer
+United States,Californian Malbec
+United States,Californian Meritage
+United States,Californian Merlot
+United States,Californian Petite Sirah
+United States,Californian Pinot Gris
+United States,Californian Pinot Noir
+United States,Californian Red Blend
+United States,Californian Rhone Blend Red
+United States,Californian Riesling
+United States,Californian Sangiovese
+United States,Californian Sauvignon Blanc
+United States,Californian Sparkling
+United States,Californian Syrah
+United States,Californian Viognier
+United States,Californian White Blend
+United States,Californian Zinfandel
+United States,Napa Valley Bordeaux Blend
+United States,Napa Valley Cabernet Sauvignon
+United States,Napa Valley Chardonnay
+United States,Oregon Chardonnay
+United States,Oregon Gewurztraminer
+United States,Oregon Pinot Gris
+United States,Oregon Pinot Noir
+United States,Oregon Riesling
+United States,Washington State Cabernet Sauvignon
+United States,Washington State Chardonnay
+United States,Washington State Gewurztraminer
+United States,Washington State Merlot
+United States,Washington State Pinot Noir
+United States,Washington State Red Blend
+United States,Washington State Riesling
+United States,Washington State Sauvignon Blanc
+United States,Washington State Syrah
+Uruguay,Uruguay Cabernet Sauvignon
+Uruguay,Uruguay Tannat
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
